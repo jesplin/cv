@@ -1,0 +1,65 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Jess Esplin
+
+jobtitle: "Ph.D. Student in Political Science, University of Wisconsin-Madison"
+address: "North Hall · Department of Political Science · Madison, WI"
+fontawesome: yes
+email: "jesplin@wisc.edu"
+# github: svmiller
+# twitter: stevenvmiller
+#osf: "Enter 5 digit osf string here"
+phone: "801.663.9496"
+web: "polisci.wisc.edu/staff/esplin-jessica/"
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+*University of Wisconsin-Madison*, Ph.D. in Political Science \hfill Anticipated 2026
+
+*University of Utah*, Honors B.S. in Economics \hfill 2016
+
+*University of Utah*, B.S. in Psychology \hfill 2016
+
+# Employment
+
+*University of Wisconsin-Madison*
+
+Project Assistant for Barry Burden \hfill 2020-Present
+
+*Myriad Genetics, Inc.*
+
+Payroll Accountant \hfill 2018-2020
+
+*University of Utah*
+
+Research Assistant \hfill 2018
+
+# Publications
+
+## Journal Articles
+
+Biondi, Francesco N., Riccardo Rossi, Massimiliano Gastaldi, Federico Orsini, and Claudio Mulatti. "Precision teaching to improve drivers’ lane maintenance." *Journal of safety research* (2020).
+
+## Other Publications
+
+Strayer, David L., Joel M. Cooper, Madeleine M. McCarty, Douglas J. Getty, Camille L. Wheatley, Connor J. Motzkus, Kelly L. Mackenzie et al. "Visual and cognitive demands of using Apple’s CarPlay, Google’s Android Auto and five different OEM infotainment systems." (2018).
+
+# References
+
+Available upon request.
