@@ -1,27 +1,27 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.25)  28 SEP 2020 00:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.12.23)  23 DEC 2020 15:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**jesplin-rmarkdown-cv.tex
-(./jesplin-rmarkdown-cv.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-09-24> (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf
--dist/tex/latex/base/article.cls
-Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+**jess-esplin-cv.tex
+(./jess-esplin-cv.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-07> xparse <2020-03-03> (c:/Users/jesse/AppData/R
+oaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count168
-\c@section=\count169
-\c@subsection=\count170
-\c@subsubsection=\count171
-\c@paragraph=\count172
-\c@subparagraph=\count173
-\c@figure=\count174
-\c@table=\count175
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 )
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/mathpazo.st
 y
@@ -44,7 +44,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.st
 y
-Package: amsmath 2020/01/20 v2.17e AMS math features
+Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip49
 For additional information on amsmath, use the `?' option.
 
@@ -55,52 +55,52 @@ Package: amstext 2000/06/29 v2.01 AMS text
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
-\ex@=\dimen135
+\ex@=\dimen139
 ))
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen136
+\pmbraise@=\dimen140
 )
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count176
-LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count177
-\leftroot@=\count178
-LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count179
-\DOTSCASE@=\count180
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box45
-\strutbox@=\box46
-\big@size=\dimen137
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count181
-\c@MaxMatrixCols=\count182
+\inf@bad=\count185
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count186
+\leftroot@=\count187
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count188
+\DOTSCASE@=\count189
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count190
+\c@MaxMatrixCols=\count191
 \dotsspace@=\muskip16
-\c@parentequation=\count183
-\dspbrk@lvl=\count184
+\c@parentequation=\count192
+\dspbrk@lvl=\count193
 \tag@help=\toks17
-\row@=\count185
-\column@=\count186
-\maxfields@=\count187
+\row@=\count194
+\column@=\count195
+\maxfields@=\count196
 \andhelp@=\toks18
-\eqnshift@=\dimen138
-\alignsep@=\dimen139
-\tagshift@=\dimen140
-\tagwidth@=\dimen141
-\totwidth@=\dimen142
-\lineht@=\dimen143
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
 \@envbody=\toks19
 \multlinegap=\skip50
 \multlinetaggap=\skip51
 \mathdisplay@stack=\toks20
-LaTeX Info: Redefining \[ on input line 2859.
-LaTeX Info: Redefining \] on input line 2860.
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
 )
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.st
 y
@@ -122,14 +122,14 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 ) (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+pplj on input line 1
 12.
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/t1pplj.fd
 File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 )) (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/inputenc.s
 ty
-Package: inputenc 2018/08/11 v1.3c Input encoding file
+Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks21
 \inpenc@posthook=\toks22
 )
@@ -145,17 +145,17 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count188
-\Gm@cntv=\count189
-\c@Gm@tempcnt=\count190
-\Gm@bindingoffset=\dimen144
-\Gm@wd@mp=\dimen145
-\Gm@odd@mp=\dimen146
-\Gm@even@mp=\dimen147
-\Gm@layoutwidth=\dimen148
-\Gm@layoutheight=\dimen149
-\Gm@layouthoffset=\dimen150
-\Gm@layoutvoffset=\dimen151
+\Gm@cnth=\count197
+\Gm@cntv=\count198
+\c@Gm@tempcnt=\count199
+\Gm@bindingoffset=\dimen148
+\Gm@wd@mp=\dimen149
+\Gm@odd@mp=\dimen150
+\Gm@even@mp=\dimen151
+\Gm@layoutwidth=\dimen152
+\Gm@layoutheight=\dimen153
+\Gm@layouthoffset=\dimen154
+\Gm@layoutvoffset=\dimen155
 \Gm@dimlist=\toks24
 )
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/sectsty/sectsty.st
@@ -177,7 +177,7 @@ Package: parskip 2020-06-15 v2.0f non-zero parskip adjustments
 
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoption
 s.sty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.
 sty
@@ -189,21 +189,21 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.
 sty
-Package: etoolbox 2020/08/24 v2.5j e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count191
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count266
 ))
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.
 sty
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box47
+\ttl@box=\box49
 \beforetitleunit=\skip52
 \aftertitleunit=\skip53
-\ttl@plus=\dimen152
-\ttl@minus=\dimen153
+\ttl@plus=\dimen156
+\ttl@minus=\dimen157
 \ttl@toksa=\toks25
-\titlewidth=\dimen154
-\titlewidthlast=\dimen155
-\titlewidthfirst=\dimen156
+\titlewidth=\dimen158
+\titlewidthlast=\dimen159
+\titlewidthfirst=\dimen160
 )
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/fontaw
 esome.sty
@@ -268,9 +268,9 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 y
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen157
-\Hy@linkcounter=\count192
-\Hy@pagecounter=\count193
+\@linkdim=\dimen161
+\Hy@linkcounter=\count267
+\Hy@pagecounter=\count268
 
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.de
 f
@@ -286,7 +286,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 s.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count194
+\Hy@SavedSpaceFactor=\count269
 Package hyperref Info: Hyper figures OFF on input line 4464.
 Package hyperref Info: Link nesting OFF on input line 4469.
 Package hyperref Info: Hyper index ON on input line 4472.
@@ -294,13 +294,13 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count195
+\c@Hy@tempcnt=\count270
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
-\XeTeXLinkMargin=\dimen158
+\XeTeXLinkMargin=\dimen162
 
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.st
 y
@@ -311,9 +311,9 @@ tcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count196
-\Field@Width=\dimen159
-\Fld@charsize=\dimen160
+\Fld@menulength=\count271
+\Field@Width=\dimen163
+\Fld@charsize=\dimen164
 Package hyperref Info: Hyper figures OFF on input line 6347.
 Package hyperref Info: Link nesting OFF on input line 6352.
 Package hyperref Info: Hyper index ON on input line 6355.
@@ -324,13 +324,15 @@ Package hyperref Info: PDF/A mode OFF on input line 6377.
 LaTeX Info: Redefining \ref on input line 6417.
 LaTeX Info: Redefining \pageref on input line 6421.
 
-(c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/atbegshi/atbegsh
-i.sty
-Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+(c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.
+sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
 )
-\Hy@abspage=\count197
-\c@Item=\count198
-\c@Hfootnote=\count199
+\Hy@abspage=\count272
+\c@Item=\count273
+\c@Hfootnote=\count274
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -338,12 +340,14 @@ Package hyperref Info: Driver (autodetected): hpdftex.
 ef
 File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
 
-(c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/atveryend/atveryen
-d.sty
-Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+(c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx
+.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
 )
-\Fld@listcount=\count266
-\c@bookmark@seq@number=\count267
+\Fld@listcount=\count275
+\c@bookmark@seq@number=\count276
 
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rer
 unfilecheck.sty
@@ -384,7 +388,7 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.st
 y
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.
 tex
@@ -393,7 +397,7 @@ tex
 \XKV@toks=\toks26
 \XKV@tempa@toks=\toks27
 )
-\XKV@depth=\count268
+\XKV@depth=\count277
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fmtcount/fcprefix.
@@ -403,39 +407,39 @@ Package: fcprefix 2012/09/28
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fmtcount/fcnumpars
 er.sty
 Package: fcnumparser 2017/06/15
-\fc@digit@counter=\count269
+\fc@digit@counter=\count278
 ))
-\c@padzeroesN=\count270
-\fc@tmpcatcode=\count271
-\@DT@modctr=\count272
-\@ordinalctr=\count273
-\@orgargctr=\count274
-\@strctr=\count275
-\@tmpstrctr=\count276
-\@DT@loopN=\count277
-\@DT@X=\count278
+\c@padzeroesN=\count279
+\fc@tmpcatcode=\count280
+\@DT@modctr=\count281
+\@ordinalctr=\count282
+\@orgargctr=\count283
+\@strctr=\count284
+\@tmpstrctr=\count285
+\@DT@loopN=\count286
+\@DT@X=\count287
 )
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/datetime/datetime-
 defaults.sty
 Package: datetime-defaults 2013/09/10
 )
-\@day=\count279
-\@month=\count280
-\@year=\count281
-\c@HOUR=\count282
-\c@HOURXII=\count283
-\c@MINUTE=\count284
-\c@TOHOUR=\count285
-\c@TOMINUTE=\count286
-\c@SECOND=\count287
-\currenthour=\count288
-\currentminute=\count289
-\currentsecond=\count290
+\@day=\count288
+\@month=\count289
+\@year=\count290
+\c@HOUR=\count291
+\c@HOURXII=\count292
+\c@MINUTE=\count293
+\c@TOHOUR=\count294
+\c@TOMINUTE=\count295
+\c@SECOND=\count296
+\currenthour=\count297
+\currentminute=\count298
+\currentsecond=\count299
 Package datetime Info: No datetime.cfg file found, using default settings on in
 put line 308.
-\@dtctr=\count291
-\dayofyear=\count292
-\dayofweek=\count293
+\@dtctr=\count300
+\dayofyear=\count301
+\dayofweek=\count302
 LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks28
 \dt@b=\toks29
@@ -443,10 +447,10 @@ LaTeX Info: Redefining \today on input line 736.
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backen
 d-pdftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count294
-\l__pdf_internal_box=\box48
-) (./jesplin-rmarkdown-cv.aux)
-\openout1 = `jesplin-rmarkdown-cv.aux'.
+\l__kernel_color_stack_int=\count303
+\l__pdf_internal_box=\box50
+) (./jess-esplin-cv.aux)
+\openout1 = `jess-esplin-cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
 LaTeX Font Info:    ... okay on input line 104.
@@ -503,10 +507,9 @@ LaTeX Font Info:    ... okay on input line 104.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 104.
-\AtBeginShipoutBox=\box49
 
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
 
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color
 .cfg
@@ -516,7 +519,7 @@ Package color Info: Driver file: pdftex.def on input line 147.
 
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-def/pdfte
 x.def
-File: pdftex.def 2020/08/26 v1.2 Graphics/color driver for pdftex
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 )
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.
 def
@@ -536,14 +539,14 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count295
+\c@section@level=\count304
 )
 LaTeX Info: Redefining \ref on input line 104.
 LaTeX Info: Redefining \pageref on input line 104.
 LaTeX Info: Redefining \nameref on input line 104.
-(./jesplin-rmarkdown-cv.out) (./jesplin-rmarkdown-cv.out)
+(./jess-esplin-cv.out) (./jess-esplin-cv.out)
 \@outlinefile=\write3
-\openout3 = `jesplin-rmarkdown-cv.out'.
+\openout3 = `jess-esplin-cv.out'.
 
 
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fmtcount/fc-englis
@@ -551,81 +554,76 @@ h.def
 File: fc-english.def 2016/01/12
 )
 LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 
-116.
+115.
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 117.
+ut line 118.
 
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/ufonta
 wesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-17.
+18.
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
-117.
+118.
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-117.
+118.
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-117.
+118.
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-117.
+118.
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-117.
+118.
 (c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 117.
+(Font)              scaled to size 11.40997pt on input line 118.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 117.
+(Font)              scaled to size 8.33606pt on input line 118.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 117.
+(Font)              scaled to size 6.25204pt on input line 118.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 117.
+(Font)              scaled to size 11.40997pt on input line 118.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 117.
+(Font)              scaled to size 8.33606pt on input line 118.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 117.
+(Font)              scaled to size 6.25204pt on input line 118.
 
 AED: lastpage setting LastPage
 [1
 
 {c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
-x.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 172.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 172.
-(./jesplin-rmarkdown-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 172.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 172.
-Package rerunfilecheck Info: File `jesplin-rmarkdown-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 492E6FF22FE469C0DAD8A0F4F648E00D;671.
+x.map}] (./jess-esplin-cv.aux)
+Package rerunfilecheck Info: File `jess-esplin-cv.out' has not changed.
+(rerunfilecheck)             Checksum: D9DBEEA37EAC05CFF2A7D90C8F381E8D;965.
  ) 
 Here is how much of TeX's memory you used:
- 13165 strings out of 482823
- 188769 string characters out of 5954498
- 452226 words of memory out of 5000000
- 28311 multiletter control sequences out of 15000+600000
- 569273 words of font info for 80 fonts, out of 8000000 for 9000
+ 13124 strings out of 481364
+ 188731 string characters out of 5917579
+ 492278 words of memory out of 5000000
+ 29722 multiletter control sequences out of 15000+600000
+ 437615 words of font info for 78 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 44i,11n,45p,1209b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,11n,85p,1203b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.en
 c} <c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/e
 c/ectt1095.600pk>{c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/d
@@ -636,10 +634,10 @@ ppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users
 /jesse/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><
 c:/Users/jesse/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr
 i8a.pfb>
-Output written on jesplin-rmarkdown-cv.pdf (1 page, 82172 bytes).
+Output written on jess-esplin-cv.pdf (1 page, 85982 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 500000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 

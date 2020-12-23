@@ -1,0 +1,80 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-template-cv/svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Jess Esplin
+
+jobtitle: "Ph.D. Student in Political Science · *(she/her)*"
+address: "North Hall · Department of Political Science · University of Wisconsin-Madison · Madison, WI"
+fontawesome: yes
+email: "jesplin@wisc.edu"
+# github: jesplin
+# twitter: jessesplin
+#osf: "0000-0003-0121-605X"
+#phone: "801.663.9496"
+web: "polisci.wisc.edu/staff/esplin-jess"
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Research Interests
+
+*American Politics*: Electoral and political systems, electoral reforms, voting systems and behavior, political participation, political behavior, representation, and state and local politics
+
+
+# Education
+
+*University of Wisconsin-Madison*, Ph.D. in Political Science \hfill Anticipated 2026
+
+*University of Utah*, Honors B.S. in Economics \hfill 2016
+
+Additional B.S. in Psychology and minors in Political Science and Sociology
+
+
+# Employment
+
+*University of Wisconsin-Madison*
+
+Project Assistant for Barry Burden \hfill 2020 - Present
+
+*Myriad Genetics, Inc.*
+
+Payroll Accountant \hfill 2018 - 2020
+
+*University of Utah*
+
+Research Assistant \hfill 2018
+
+
+# Publications
+
+## Journal Articles
+
+In progress.
+
+## Non-Political Science Publications
+
+Strayer, David L., Joel M. Cooper, Madeleine M. McCarty, Douglas J. Getty, Camille L. Wheatley, Connor J. Motzkus, Kelly L. Mackenzie et al. "Visual and cognitive demands of using Apple’s CarPlay, Google’s Android Auto and five different OEM infotainment systems." (2018).
+
+Wheatley, Camille & Esplin, Jess & Loveless, Sydney & Cooper, Joel & Biondi, Francesco & Strayer, David. (2018). Performance and Workload Trends: The Effects of Repeated Exposure to “High” Demand Tasks. Proceedings of the Human Factors and Ergonomics Society Annual Meeting. 62. 6-10. 10.1177/1541931218621002. 
+
+
+# Skills
+
+Strong skills in planning, organization, and project management, as well as communication and writing. Developing skills in R, statistical analysis, and research design and methodology
+
+
+# References
+
+Available upon request.
